@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-EmployeeApplication<jdbc-spring-template>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.oracle.jdbc.template.EmployeeApplication",
+            "projectName": "jdbc-spring-template",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
